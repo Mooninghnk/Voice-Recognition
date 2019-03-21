@@ -14,4 +14,4 @@ open your fav browser and redirect to http://localhost:3000/
 
 # Comands 😎 
 
-Just say show commands
+Just say ```show commands```
