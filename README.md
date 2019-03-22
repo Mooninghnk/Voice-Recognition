@@ -5,6 +5,7 @@ Voice recognition i build using javascript && node.js
 ``` git clone https://github.com/Mooninghnk/Voice-Recognition.git ```
 
 ``` cd Voice-Recognition ```
+
 ``` cd myapp ```
 
 ``` npm install ```
