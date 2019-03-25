@@ -1,4 +1,5 @@
 Voice recognition i build using javascript && node.js
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FMooninghnk%2FVoice-Recognition?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FMooninghnk%2FVoice-Recognition.svg?type=shield"/></a>
 
 # How to Install It ? 😓
 
